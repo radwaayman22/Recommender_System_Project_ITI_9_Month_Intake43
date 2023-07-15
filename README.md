@@ -22,8 +22,6 @@
 
 ## Dataset:
 #### The system uses the MovieLens dataset (small) to recommend Movies for users
-##### Dataset_link : https://drive.google.com/drive/folders/17y3g6pKPiF4M8hwt8v5uLzb1Gr-PqRGD?usp=sharing 
-
 ## Authors
 #### This project was created by:
 #### 1- [Israa Muhammad](https://github.com/israa2050)
