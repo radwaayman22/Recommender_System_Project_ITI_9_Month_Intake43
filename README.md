@@ -1,6 +1,6 @@
 # Movie-Recommender-Systems-Project
 
-#### This repository contains a set of UI components for a recommender system. The system is built to recommend Movies for users based on their historical interactions with the movies and the similariry between movies   . 
+#### This repository contains a set of UI components for a recommender system. The system is built to recommend Movies for users based on their historical interactions with the movies and the similarity  between movies   . 
 
 ## 1. User Interface:
 
